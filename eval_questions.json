@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who can receive the income support paid to farmers in instalments?",
+    "expected_sources": ["Pradhan Mantri Kisan Samman Nidhi"]
+  },
+  {
+    "question": "What pension can someone build by contributing during working years?",
+    "expected_sources": ["Atal Pension Yojana"]
+  },
+  {
+    "question": "How can farmers get a revolving credit limit for crop expenses?",
+    "expected_sources": ["Kisan Credit Card"]
+  },
+  {
+    "question": "Which government health cover helps eligible families pay for hospital treatment?",
+    "expected_sources": ["Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana"]
+  },
+  {
+    "question": "What relief can fishermen receive during a lean season or natural calamity?",
+    "expected_sources": ["Immediate Relief Assistance under Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme"]
+  },
+  {
+    "question": "Which scholarship supports students from backward classes before college?",
+    "expected_sources": ["Pre-Matric Scholarship for Backward Class Students"]
+  },
+  {
+    "question": "What state support is available for women starting a small enterprise?",
+    "expected_sources": ["Indira Mahila Shakti Udyam Protsahan Yojana"]
+  },
+  {
+    "question": "How are construction workers' families supported if an unregistered worker dies at work?",
+    "expected_sources": ["Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site"]
+  },
+  {
+    "question": "What financial incentive is offered for an intra-caste marriage in a Scheduled Tribe community?",
+    "expected_sources": ["Incentive For The Intra Caste Marriage within Scheduled Tribe Community"]
+  },
+  {
+    "question": "What subsidy supports investment by powerloom micro and small enterprises?",
+    "expected_sources": ["Incentive Scheme for MSMEs in Powerloom Sector: State Capital Investment Subsidy"]
+  }
+]

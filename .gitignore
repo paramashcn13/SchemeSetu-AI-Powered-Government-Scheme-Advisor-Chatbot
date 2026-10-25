@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+faiss_index/
+data/*.pdf
+data/*.csv
+node_modules/
+.vscode/
+*.log
+schemesetu.db
+data/unanswered_log.jsonl

@@ -1,0 +1,17 @@
+/* Sidebar chat history ("Recent") */
+.sidebar__section--grow { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+.sidebar__threads { overflow-y: auto; display: flex; flex-direction: column; gap: 2px; margin-top: 6px; }
+.sidebar__thread-row { display: flex; align-items: center; gap: 4px; }
+.sidebar__thread {
+  flex: 1; min-width: 0; text-align: left; background: transparent; border: 0;
+  color: inherit; font: inherit; font-size: 13px; padding: 8px 10px; border-radius: 8px;
+  cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; opacity: 0.85;
+}
+.sidebar__thread:hover, .sidebar__thread--active {
+  background: color-mix(in srgb, currentColor 12%, transparent); opacity: 1;
+}
+.sidebar__icon-btn {
+  display: inline-flex; background: transparent; border: 0; color: inherit;
+  opacity: 0.5; cursor: pointer; padding: 6px; border-radius: 6px;
+}
+.sidebar__icon-btn:hover { opacity: 1; background: color-mix(in srgb, currentColor 12%, transparent); }
